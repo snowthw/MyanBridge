@@ -37,7 +37,7 @@ MyanBridge aims to reduce these barriers and support future low-resource Myanmar
 
 ## Screenshots
 
-(Add prototype screenshots here)
+<img width="497" height="338" alt="Figure for Extended Summary - MyanBridge" src="https://github.com/user-attachments/assets/fb3f4fd1-3755-468c-aebe-a6d675b3cbd1" />
 
 ## Author
 
